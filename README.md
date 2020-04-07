@@ -8,3 +8,6 @@
 3. In this case both logistic regression and SVM techniques are taken but Svm proved to be better one with nearly 89% accuracy.
 4. LIbraries used for main purposes like stemming,stop words,n- grams etc were taken from NLTK which is the best lbrary for implementaion of NLP in python
 5. Finally data preprocessing and cleaning were done before itself and the data mentioned is clean.
+
+### Dataset Citation
+https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.bib
