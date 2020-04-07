@@ -1,5 +1,6 @@
 # Movie_Review_Analysis-Using-NLP
- This classifies the movie reviews in classes: positive and negative by using various NLP models iand finally concluding that Support vector machine with n-gram acheives nearly 89percent accuracy which is greatest among all other models. 
+ This classifies the movie reviews in classes: positive and negative by using various NLP models iand finally concluding that Support vector machine with n-gram acheives nearly 89% accuracy which is greatest among all other models involving NLP. Data was taken from here,preprocessed and cleaned .
+ [https://ai.stanford.edu/~amaas/data/sentiment/]
  
 ## Concise Explanation:
 1. The data is split in such a way that half each will be rendered for '+' and '-'  reviews.
